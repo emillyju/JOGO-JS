@@ -1,1 +1,1 @@
-# pong-js
+# jogo-JS
